@@ -29,7 +29,8 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  margin-top: 2em;
+  color:#497592;
 }
 
 a {
@@ -96,9 +97,10 @@ img {
 }
 
 header {
-  width:270px;
+  width:290px;
   float:left;
   position:fixed;
+  top: 100px;
 }
 
 header ul {
@@ -163,6 +165,7 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+  padding-top: 40px;
 }
 
 small {
@@ -177,8 +180,7 @@ hr {
 }
 
 footer {
-  width:270px;
-  float:left;
+  float:right;
   position:fixed;
   bottom:50px;
 }
