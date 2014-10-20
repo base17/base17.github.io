@@ -29,6 +29,7 @@
 					orientation: 'vertical'
 				},
 				titleBar: {
+					hidden: true,
 					breakpoints: 'mobile',
 					position: 'top-left',
 					side: 'top',
