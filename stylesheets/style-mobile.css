@@ -270,7 +270,7 @@
 	}
 
 	#banner-wrapper img {
-		width: 300px;
+		width: 260px;
 	}
 	
 	#features-wrapper
@@ -336,6 +336,7 @@
 		{
 			font-size: 2em;
 			margin: 0.75em 0 0.5em 0;
+			line-height: 1.2em;
 		}
 		
 		#banner p
