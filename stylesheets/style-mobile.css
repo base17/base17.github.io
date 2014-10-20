@@ -134,6 +134,8 @@
 				{
 					position: relative;
 					margin: 0;
+					padding-top: 2em;
+
 				}
 
 					.box.feature .image img
@@ -265,6 +267,10 @@
 	#banner-wrapper
 	{
 		padding: 0 15px 0 15px;
+	}
+
+	#banner-wrapper img {
+		width: 300px;
 	}
 	
 	#features-wrapper
